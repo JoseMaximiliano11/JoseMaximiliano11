@@ -1,3 +1,14 @@
-Mi nombre es Jose Maximiliano Olivera Salazar. 
-Estudio en la Universidad Mayor de San Simon en la carrera de Ingenieria de Sistemas de la facultad de Ciencias y Tecnologia. 
-Mi frase motivacional es la siguiente: "La vida cambia cuando te empiezas a enfocar en ti"
+🧑‍🎓 Mi nombre es: Jose Maximiliano Olivera Salazar soy un Estudiante Universitario con Grandes Sueños
+📚 Carrera: Ingeniería de Sistemas
+🏫 Universidad: Universidad Mayor de San Simón
+🌍 De dónde soy: Cochabamba, Bolivia 🇧🇴
+📆 Edad: 20 años
+🎓 Frase motivacional: "La vida cambia cuando te empiezas a enfocar en ti"
+
+
+
+
+
+
+
+ 
