@@ -1,4 +1,7 @@
-🧑‍🎓 Mi nombre es: Jose Maximiliano Olivera Salazar soy un Estudiante Universitario con Grandes Sueños
+🎓✨ ¡Hola a todos! ✨🎓
+
+Soy Max
+
 📚 Carrera: Ingeniería de Sistemas
 🏫 Universidad: Universidad Mayor de San Simón
 🌍 De dónde soy: Cochabamba, Bolivia 🇧🇴
