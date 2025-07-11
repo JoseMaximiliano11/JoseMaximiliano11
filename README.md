@@ -4,7 +4,10 @@
 🌍 De dónde soy: Cochabamba, Bolivia 🇧🇴
 📆 Edad: 20 años
 🎓 Frase motivacional: "La vida cambia cuando te empiezas a enfocar en ti"
-
+🎯 Lo que me inspira a estudiar esta carrera es:
+🤖 La inteligencia artificial
+🌌 El futuro de la tecnología
+🧑‍💻 Las startups que empezaron en un garage
 
 
 
