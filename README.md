@@ -2,11 +2,11 @@
 
 Soy Max
 
-📚 Carrera: Ingeniería de Sistemas
+📚 Estudiante de la carrera ded Ingeniería de Sistemas
 🏫 Universidad: Universidad Mayor de San Simón
-🌍 De dónde soy: Cochabamba, Bolivia 🇧🇴
-📆 Edad: 20 años
-🎓 Frase motivacional: "La vida cambia cuando te empiezas a enfocar en ti"
+🌍 Soy: Cochabamba, Bolivia 🇧🇴
+📆 Tengo 20 años
+🎓 Mi Frase motivacional: "La vida cambia cuando te empiezas a enfocar en ti"
 🎯 Lo que me inspira a estudiar esta carrera es:
 🤖 La inteligencia artificial
 🌌 El futuro de la tecnología
